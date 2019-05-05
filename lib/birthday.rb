@@ -5,7 +5,9 @@
 # }
 
 def happy_birthday(birthday_kids)
-  # add your code snippet here!
+  # add your code snipet
+  birthday_kids.each do |kids_name,age|
+    
 end
 
 
